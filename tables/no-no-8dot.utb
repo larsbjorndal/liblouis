@@ -626,4 +626,7 @@ replace \xFEFF 		      # ZERO WIDTH NO-BREAK SPACE
 replace \xFFF9 		      # INTERLINEAR ANNOTATION ANCHOR
 replace \xFFFA 		      # INTERLINEAR ANNOTATION SEPARATOR
 replace \xFFFB 		      # INTERLINEAR ANNOTATION TERMINATOR
+
+include spaces.uti
+
 undefined 38
